@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Actas CIAF",
+  "description": "Una aplicación web elegante con modo oscuro para generar, firmar e imprimir actas de préstamo de hardware. Utiliza Gemini para crear dinámicamente el texto del acuerdo de préstamo.",
+  "requestFramePermissions": []
+}
